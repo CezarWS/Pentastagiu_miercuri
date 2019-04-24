@@ -1,0 +1,4 @@
+What is regression? What is retesting?
+Regression is testing after every code release to see if the new developed code doen;t affect the rest of the application. After every code modification , a new regression is required 
+
+Retest is a new test made on a functionality. To make sure it's ok or not  ss

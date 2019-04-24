@@ -1,0 +1,24 @@
+Consider that you have found a defect in the form for the previous exercise. Create a bug report for it.
+
+q
+
+Sign in button doesn't redirect to sign in page 
+
+Priority : Highest 
+
+Component : Sign in form
+
+To be fixed in : 0.1 s
+
+Description : 
+s 
+
+Steps to reproduce : 
+
+1. Open browser 
+2. Introduce application URL 
+3. Hit Sign in Button 
+
+
+Expected : Page regirects to sign in page 
+Actual : Application generates error in console 

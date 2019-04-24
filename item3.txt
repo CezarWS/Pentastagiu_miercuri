@@ -1,0 +1,7 @@
+Name the difference between agile & v-model. (Please specify some roles and cycles for these)
+
+
+V-model is a software development model that is based on the relationships between each phase of the development life cycle as described in a typical Waterfall model of software development and its associated phase of testing
+
+Agile testing is a software testing practice that follows the rules of the agile style treating software development as the customer of testing. Agile testing involves testing from the customer perspective as early as possible, testing early and often as code becomes available and stable enough from module/unit level testing.
+as
