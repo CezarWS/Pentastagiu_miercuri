@@ -1,0 +1,8 @@
+Please state what is black box testing? How about white box testing? You can also give an example.
+
+
+Black box testing is when you don't have the access to code 
+You only know the expected result but don't have access to implementation
+s
+White box is when you also have access to code ,input etc
+ 
